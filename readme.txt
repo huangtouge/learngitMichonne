@@ -7,3 +7,4 @@ Git  isset SOME THOING is a software.
 add line
 GIT 管理的是修改 add 之后又修改
 original
+使用了add想要回到original
